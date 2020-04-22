@@ -1,0 +1,30 @@
+p{
+    background-color:red;
+    width: 75px;
+    text-align: center;
+}
+
+body{
+    background-color:blue;
+    font-style: unset;
+}
+
+h3{ 
+    background-color: teal;
+}
+
+table{
+    background-color: yellow;
+    border: 1px solid black;
+    width:50%
+}
+
+td, th {
+    border: 1px solid black;
+    width: 50%;
+}
+
+button:hover{
+    background-color:rebeccapurple;
+}
+
